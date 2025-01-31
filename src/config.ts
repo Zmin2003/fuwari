@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'MicroSoft',
       icon: 'fa6-brands:microsoft',
-      url: 'https://github.com/Zmin2003/GLaDOS',
+      url: 'https://zmin2003-alist.hf.space/',
     },
     {
       name: 'GitHub',
