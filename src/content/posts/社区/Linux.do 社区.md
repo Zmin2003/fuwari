@@ -20,6 +20,9 @@ lang: zh_CN      # Set only if the post's language differs from the site's langu
 如果你渴望一个舒适、纯粹的技术社区，Linux.do 绝对值得你加入。相信你也会喜欢上这里的氛围，并在这里找到志同道合的朋友，共同探索 Linux 和开源的魅力。
 
 欢迎加入 Linux.do，感受不一样的社区体验
+:::important
+[Linux.do](https://Linux.do)
+:::
 
 
 ![alt text](./Linux.do.png)
