@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'MicroSoft',
       icon: 'fa6-brands:microsoft',
-      url: 'https://zmin2003-tsila.hf.space/',
+      url: 'https://w.zmin.fyi',
     },
     {
       name: 'GitHub',
