@@ -60,17 +60,17 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:google-drive',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://ww.zmin.fyi',
+      url: 'https://w.zmin.fyi',
     },
     {
       name: 'gemini',
       icon: 'fa6-solid:robot',
-      url: 'https://w.zmin.fyi',
+      url: 'https://gemini.zmin.fyi',
     },
     {
       name: 'openwebui',
       icon: 'fa6-solid:brain',
-      url: 'https://github.com/Zmin2003',
+      url: 'https://gpt.Zmin.fyi',
     },
   ],
 }
