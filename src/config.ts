@@ -56,19 +56,19 @@ export const profileConfig: ProfileConfig = {
   bio: '随笔记录',
   links: [
     {
-      name: 'google-drive',
+      name: '谷歌云盘',
       icon: 'fa6-brands:google-drive',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://ww.zmin.fyi',
     },
     {
-      name: 'robot',
-      icon: 'fa6-brands:robot',
+      name: 'gemini',
+      icon: 'fa6-solid:robot',
       url: 'https://w.zmin.fyi',
     },
     {
-      name: 'GitHub',
+      name: 'Github 主页',
       icon: 'fa6-brands:github',
       url: 'https://github.com/Zmin2003',
     },
