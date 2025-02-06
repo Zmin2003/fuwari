@@ -57,20 +57,20 @@ export const profileConfig: ProfileConfig = {
   links: [
     {
       name: 'alist',
-      icon: 'fa6-brands:google-drive',       // Visit https://icones.js.org/ for icon codes
+      icon: 'fa-solid:fa-cloud',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://w.zmin.fyi',
-    },
-    {
-      name: 'gemini',
-      icon: 'fa6-solid:robot',
-      url: 'https://gemini.zmin.fyi',
+      url: 'https://drive.zmin.fyi',
     },
     {
       name: 'openwebui',
-      icon: 'fa6-solid:brain',
-      url: 'https://gpt.Zmin.fyi',
+      icon: 'fa6-solid:robot',
+      url: 'https://ai.zmin.fyi',
+    },
+    {
+      name: 'img',
+      icon: 'fa6-solid:image',
+      url: 'https://img.Zmin.fyi',
     },
   ],
 }
