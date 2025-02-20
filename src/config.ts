@@ -69,12 +69,12 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Google',
-      icon: 'fa6-solid:magnifying-glass',
+      icon: 'fa6-solid:robot',
       url: 'https://ss.zmin.fyi',
     },
     {
       name: 'file',
-      icon: 'fa6-solid:file-archive',
+      icon: 'fa6-solid:robot',
       url: 'https://now.zmin.fyi',
     },
     {
