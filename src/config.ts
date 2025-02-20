@@ -63,9 +63,19 @@ export const profileConfig: ProfileConfig = {
       url: 'https://zmin2003-drive.hf.space',
     },
     {
-      name: 'neatchat',
+      name: 'lobechat',
       icon: 'fa6-solid:robot',
       url: 'https://ai.zmin.fyi',
+    },
+    {
+      name: 'Google',
+      icon: 'fa6-solid:magnifying-glass',
+      url: 'https://ss.zmin.fyi',
+    },
+    {
+      name: 'file',
+      icon: 'fa6-solid:file-archive',
+      url: 'https://now.zmin.fyi',
     },
     {
       name: 'jk',
