@@ -56,31 +56,16 @@ export const profileConfig: ProfileConfig = {
   bio: '随笔记录',
   links: [
     {
-      name: 'zfile',
-      icon: 'fa6-solid:cloud',       // Visit https://icones.js.org/ for icon codes
+      name: 'jk',
+      icon: 'fa6-solid:server',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://zmin2003-drive.hf.space',
-    },
-    {
-      name: 'lobechat',
-      icon: 'fa6-solid:robot',
-      url: 'https://ai.zmin.fyi',
-    },
-    {
-      name: 'Google',
-      icon: 'fa6-solid:magnifying-glass',
-      url: 'https://ss.zmin.fyi',
+      url: 'https://www.zmin.fyi',
     },
     {
       name: 'file',
       icon: 'fa6-solid:file',
       url: 'https://now.zmin.fyi',
-    },
-    {
-      name: 'jk',
-      icon: 'fa6-solid:server',
-      url: 'https://zmin.fyi',
     },
   ],
 }
